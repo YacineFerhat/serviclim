@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #0e1837;
+}
+
+
+.image {
+    height: 250px;
+    width: 250px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    padding-top: 5%;
+}
+
+.title {
+    color: white;
+    width: 100%;
+}
+
+.subtitle {
+    color: white;
+}
+
+.columns {
+    width: 100%;
+}
+
+.column {
+    margin-top: 3%;
+}
+
+.icon {
+    color: white;
+}
+
+i {
+    height: 30px;
+    width: 30px;
+}
